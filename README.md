@@ -7,13 +7,6 @@ I'm a data explorer, coding enthusiast, and soon-to-be MS in Business Analytics 
 - **Passions:** Cars, board games, puzzles, and even a bit of household applied physics ([this kind of stuff](https://www.cracked.com/article_42696_5-childrens-toys-that-were-invented-by-government-scientists.html)).
 - **Languages:** Fluent English; dabbling in Japanese and Mandarin.
 
-## Cool Projects & Experiences
-- **Traffic Anomaly Detector:** Built a model to flag car accidents and help first responders.
-- **Job Scraper & Recommender:** Created a tool that finds job listings and recommends roles based on your vibe.
-- **Cooking Database on GCP:** Combined my love for data and cooking into one tasty project.
-
-I've also had awesome internships at Dell, Microsoft, and more—each a fun journey into the world of data.
-
 ## Let's Connect!
 - **Email:** [crosson.a.michael at gmail.com](mailto:crosson.a.michael@gmail.com)
 - **LinkedIn:** [Michael Crosson](https://linkedin.com/michaelacrosson)
