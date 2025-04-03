@@ -10,6 +10,6 @@ I'm a data explorer, coding enthusiast, and soon-to-be MS in Business Analytics 
 ## Let's Connect!
 - **Email:** [crosson.a.michael at gmail.com](mailto:crosson.a.michael@gmail.com)
 - **LinkedIn:** [Michael Crosson](https://linkedin.com/michaelacrosson)
-- **Portfolio:** [michaelcrosson.github.io](https://michaelcrosson.github.io)
+- **Website:** [michaelcrosson.github.io](https://michaelcrosson.github.io)
 
 Thanks for dropping by my profile! Feel free to explore my repos, star any projects you like ⭐, or just say hi.
